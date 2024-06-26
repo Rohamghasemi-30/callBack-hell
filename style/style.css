@@ -1,0 +1,31 @@
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.box{
+width: 500px;
+height: 500px;
+background-color:aqua;
+border-radius: 25px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding: 25px;
+gap: 20px;
+
+}
+
+.step{
+    width: 80%;
+    height: 100px;
+    background-color: bisque;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
